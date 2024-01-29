@@ -1,0 +1,16 @@
+* {
+    background-color: navy;
+    color: white;
+}
+h1 {
+    text-align: center;
+}
+ul.homelist {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+li.homelist {
+    list-style: none;
+    text-justify: distribute;
+}
