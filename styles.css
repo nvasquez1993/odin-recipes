@@ -1,14 +1,16 @@
 * {
     background-color: navy;
     color: white;
+    /* outline: 1px solid red; */
 }
 h1 {
     text-align: center;
 }
 ul.homelist {
-    width: 100%;
     margin: auto;
     text-align: center;
+    position: relative;
+    left: -20px;
 }
 li.homelist {
     list-style: none;
