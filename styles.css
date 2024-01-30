@@ -1,18 +1,23 @@
 * {
     background-color: navy;
     color: white;
-    /* outline: 1px solid red; */
+    outline: 1px solid red;
 }
 h1 {
     text-align: center;
 }
 ul.homelist {
-    margin: auto;
+    margin: 0 auto;
     text-align: center;
     position: relative;
-    left: -20px;
+    margin-left: -20px;
 }
 li.homelist {
     list-style: none;
     text-justify: distribute;
+}
+img {
+    display: block;
+    margin: auto;
+    max-width: 100%;
 }
